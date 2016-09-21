@@ -12,6 +12,11 @@ body {
     color: black;
 }
 
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
 h1,h2,h3,h4,h5,h6 {
     font-weight: 600;
     font-family: 'Roboto Slab', serif;
