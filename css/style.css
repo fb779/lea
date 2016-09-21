@@ -8,7 +8,7 @@ url(http://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700)
 
 body {
     font-family: 'Open Sans', Arial, Verdana;
-    font-size: 13px;
+    font-size: 25px;
     color: black;
 }
 
@@ -435,5 +435,5 @@ a:active {
     position: absolute;
     top: 50%;
     width: 50px;
-    
+
 }
